@@ -11,6 +11,7 @@ gem 'sqlite3', group: :development
 gem 'pg', group: :production
 # Postgres GemFile
 gem 'Rails_12factor', group: :production
+#Para la  imagen
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
