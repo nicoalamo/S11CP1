@@ -10,7 +10,7 @@ gem 'sqlite3', group: :development
 # Use Puma as the app server
 gem 'pg', group: :production
 # Postgres GemFile
-gem 'Rails_12factor', group: :production
+gem 'rails_12factor', group: :production
 #Para la  imagen
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
